@@ -6,4 +6,3 @@ built a classifier which will predict whether a given image is blurred.
 
 * sample images is attached on which I have tested my model.
 
-* Implemented in google Colab 
