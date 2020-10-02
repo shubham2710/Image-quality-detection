@@ -6,3 +6,4 @@ built a classifier which will predict whether a given image is blurred.
 
 * sample images is attached on which I tested my model.
 
+* Dataset can be download using this link : http://mklab.iti.gr/files/imageblur/CERTH_ImageBlurDataset.zip
